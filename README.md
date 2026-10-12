@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jusar Culpable 👋
 
-<!--
-**jusarculpable12/jusarculpable12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mid-Level Full-Stack Web Developer | 4 Years of Experience**
 
-Here are some ideas to get you started:
+I build, customize, and optimize high-performance websites and web applications, from CMS platforms to custom development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Development:** HTML, CSS, JavaScript, PHP, SQL, TypeScript, Next.js, Node.js
+- 🛠️ **Platforms:** WordPress, Wix, Squarespace, Webflow, GoHighLevel, Shopify
+- 🚀 **Tools & Deployment:** Git, GitHub, Vercel, Claude, Codex
+- 🌐 **Infrastructure:** SiteGround, cPanel, Hostinger, WP Engine, DigitalOcean, GoDaddy
+- ⚡ **Specialties:** Performance optimization, responsive design, troubleshooting, SEO, and website maintenance
+
+**My goal:** Build fast, scalable, and user-friendly digital solutions that help businesses grow.
